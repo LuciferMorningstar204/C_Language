@@ -9,6 +9,7 @@ int main()
     sqr2 = num2*num2;
     sum = sqr1 + sqr2;
     printf("Sum of their square = %d", sum);
-    getch();
+    // getch();
+    
     return 0;
 }
